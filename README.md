@@ -1,6 +1,4 @@
-Hi! This is Princeton-28,
-a Software Developer.
-I love traveling, cycling and cooking.
-Moreover I play the bass guitar and piano.
-I would love to collaborate by creating some cool sites.
+Hi! This is Princeton-28, a Software Developer,
+who specializes in ReactJS, Javascript, 
+Responsive Web Design, HTML5, CSS3, and NodeJS.
 I'm reachable at: princeka28@gmail.com
